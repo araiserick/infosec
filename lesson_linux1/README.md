@@ -84,3 +84,7 @@ john --wordlist=/opt/SecLists/Passwords/xato-net-10-million-passwords-100000.txt
 В итоге получаем
 
 ![alt text](./images/image.png)
+
+Хеш в начале ДЗ
+
+![alt text](./images/image1.png)
