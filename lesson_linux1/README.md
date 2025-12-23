@@ -88,3 +88,7 @@ john --wordlist=/opt/SecLists/Passwords/xato-net-10-million-passwords-100000.txt
 Хеш в начале ДЗ
 
 ![alt text](./images/image1.png)
+
+Обратная проверка
+
+![alt text](image.png)
