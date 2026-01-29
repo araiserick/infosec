@@ -46,3 +46,12 @@
 
 [3.8.Язык Python в информационной безопасности](/lesson_python_nmap/README.md)
 
+### Современная разработка ПО
+
+[4.1. Контейнеризация (Docker)](./lesson_docker/README.md)
+
+[4.2. Популярные языки, системы сборки, управления зависимостями](./lesson_sonarqube/README.md)
+
+[4.3. Системы контроля версий и CI/CD](./lesson_truffleHog/README.md)
+
+[4.4. Cистемы хранения данных (СУБД)](./lesson4.4/README.md)
